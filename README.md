@@ -1,22 +1,16 @@
-# Finance Dashboard
+## Finance Dashboard
 
-## Project Overview
-This project focuses on analyzing financial data and presenting meaningful insights through an interactive Power BI dashboard.
+### Project Overview
+This project analyzes financial data using Power BI and Microsoft Excel to generate meaningful insights.
 
-## Tools Used
+### Tools Used
 - Microsoft Excel
 - Power BI
 
-## Key Features
-- Financial performance analysis
-- KPI cards and interactive visuals
-- Data visualization and reporting
-- Insights from financial data
-
-## Project Files
+### Project Files
 - Excel dataset
 - Power BI dashboard (.pbix)
 
-## Dashboard Preview
+### Dashboard Preview
 
-![Finance Dashboard](finance-dashboard.png)
+![Finance Dashboard](./dash.png)
